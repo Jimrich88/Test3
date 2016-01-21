@@ -8,7 +8,7 @@ listlength = len(mylist)
 
 listlength = len(mylist)
 stringlength = len(myvar)
-numlength = len(myage)
+numlength = len(27)
 # import scraperwiki
 # import lxml.html
 #
