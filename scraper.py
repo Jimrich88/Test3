@@ -5,6 +5,10 @@ myage = 27
 mylist = ['this','that','theother']
 mynumlist = [1,15,25,35]
 listlength = len(mylist)
+
+listlength = len(mylist)
+stringlength = len(myvar)
+numlength = len(myage)
 # import scraperwiki
 # import lxml.html
 #
